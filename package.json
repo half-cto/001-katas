@@ -1,0 +1,11 @@
+{
+  "name": "001-katas",
+  "version": "1.0.0",
+  "description": "typescript workout project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "JurisZemitis",
+  "license": "ISC"
+}
